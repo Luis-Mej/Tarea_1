@@ -1,0 +1,4 @@
+com\example\weatherforecast\openapi\OpenApiConfig.class
+com\example\weatherforecast\models\WeatherForecast.class
+com\example\weatherforecast\Proyecto1Application.class
+com\example\weatherforecast\controllers\WeatherForecastController.class
